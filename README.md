@@ -1,7 +1,7 @@
 # Hi, I'm Jhansi Sneha Kamsali  
-[View My Resume](https://drive.google.com/file/d/1UlBKTyN55YOLlqZ4BDUzkJJLJmhYku0b/view?usp=sharing)
+[View My Resume](https://drive.google.com/file/d/1sSOG5BE7QN8FV2kyEk3q1QXK2wL6I0cg/view?usp=sharing)
 
-I'm a Computer Science graduate student at George Mason University (graduating December 2025) with 8 years of prior industry experience in software integration, backend development, and cloud automation using TIBCO, MuleSoft, and Python.
+I am a Computer Science graduate student at George Mason University (graduating December 2025) with 8 years of prior industry experience in software integration, backend development, and cloud automation using TIBCO, MuleSoft, and Python.
 
 Currently focused on building scalable systems that integrate backend engineering, machine learning, and DevOps best practices.
 
@@ -16,6 +16,25 @@ Currently focused on building scalable systems that integrate backend engineerin
 **Databases & Tools:** SQL, Oracle SQL Developer, MS SQL Server, Postman, JIRA, Microsoft 365  
 **Certifications:** AWS Cloud Practitioner, AWS AI Practitioner, MuleSoft Developer, Workato Automation Pro, Spanish A1
 
+---
+## Work Experience
+
+**Senior Associate – PwC**  
+Delivered automation and cloud integration solutions across financial services clients.  
+- Developed scalable APIs using TIBCO BusinessWorks for billing and transaction processing  
+- Automated business workflows for cloud services like Workday and Salesforce  
+- Collaborated with cross-functional teams in agile environments to drive delivery
+
+**Technical Specialist – Netrovert Software**  
+Led API integrations and cloud service delivery for global banking clients.  
+- Implemented real-time CRM data sync between Salesforce and backend systems  
+- Built REST/SOAP APIs using MuleSoft and TIBCO for retail banking platforms  
+- Spearheaded migration of legacy integration systems to containerized deployments
+
+**Consultant – TIBCO Software**  
+- Delivered over 100 production-ready APIs for multinational clients like DBS and Citi  
+- Designed scalable enterprise workflows using TIBCO BW, EMS, and Java  
+- Optimized monitoring and error-handling infrastructure for API reliability
 ---
 
 ## Projects
@@ -49,27 +68,6 @@ Working with Professors Missy Cummings and Wanyi Chen on crash injury prediction
 
 ---
 
-## Work Experience
-
-**Senior Associate – PwC**  
-Delivered automation and cloud integration solutions across financial services clients.  
-- Developed scalable APIs using TIBCO BusinessWorks for billing and transaction processing  
-- Automated business workflows for cloud services like Workday and Salesforce  
-- Collaborated with cross-functional teams in agile environments to drive delivery
-
-**Technical Specialist – Netrovert Software**  
-Led API integrations and cloud service delivery for global banking clients.  
-- Implemented real-time CRM data sync between Salesforce and backend systems  
-- Built REST/SOAP APIs using MuleSoft and TIBCO for retail banking platforms  
-- Spearheaded migration of legacy integration systems to containerized deployments
-
-**Consultant – TIBCO Software**  
-- Delivered over 100 production-ready APIs for multinational clients like DBS and Citi  
-- Designed scalable enterprise workflows using TIBCO BW, EMS, and Java  
-- Optimized monitoring and error-handling infrastructure for API reliability
-
----
-
 ## Leadership & Impact
 
 - Graduate Professional Assistant, Housing and Residence Life, GMU  
@@ -83,14 +81,6 @@ Led API integrations and cloud service delivery for global banking clients.
 
 - Event Organizer, Korean ArtPop Symposium (2024)  
   Designed and executed an intercultural storytelling workshop attended by 120+ students and staff.
-
----
-
-## Currently Learning
-
-- Building REST APIs with FastAPI and Flask  
-- ML Ops tools like MLflow, Airflow, and DVC  
-- Improving GitHub visibility with documented, deployable projects
 
 ---
 
