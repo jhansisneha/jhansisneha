@@ -86,6 +86,4 @@ Working with Professors Missy Cummings and Wanyi Chen on crash injury prediction
 
 ## Contact
 
-- LinkedIn: [https://www.linkedin.com/in/jhansi-sneha-kamsali](https://www.linkedin.com/in/jhansi-sneha-kamsali)  
-- GitHub: [https://github.com/jhansisneha](https://github.com/jhansisneha)  
-- Email: jhansi.sneha@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/jhansi-sneha-kamsali](https://www.linkedin.com/in/jhansi-sneha-kamsali) 
