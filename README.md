@@ -1,5 +1,8 @@
 # Hi, I'm Jhansi Sneha Kamsali  
 [View My Resume](https://drive.google.com/file/d/1sSOG5BE7QN8FV2kyEk3q1QXK2wL6I0cg/view?usp=sharing)
+## Contact
+
+- LinkedIn: [https://www.linkedin.com/in/jhansi-sneha-kamsali](https://www.linkedin.com/in/jhansi-sneha-kamsali) 
 
 I am a Computer Science graduate student at George Mason University (graduating December 2025) with 8 years of prior industry experience in software integration, backend development, and cloud automation using TIBCO, MuleSoft, and Python.
 
@@ -84,6 +87,4 @@ Working with Professors Missy Cummings and Wanyi Chen on crash injury prediction
 
 ---
 
-## Contact
 
-- LinkedIn: [https://www.linkedin.com/in/jhansi-sneha-kamsali](https://www.linkedin.com/in/jhansi-sneha-kamsali) 
